@@ -18,9 +18,10 @@
 
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy and paste the code below and press enter
--   IDM Internet Download Manager v6.42 Build 10
 ```
 irm massgrave.dev/ias | iex
+```
+-   IDM Internet Download Manager v6.42 Build 10
 ```
 irm https://get.activated.win | iex
 ```
